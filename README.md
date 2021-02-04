@@ -5,3 +5,5 @@ local.py belajar dasar web scrapping
 download.py belajar download image
 ## tutorial 3
 insta_login.py belajar login instagram
+## tutorial 4
+insta_post.py belajar posting instagram
