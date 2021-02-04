@@ -17,8 +17,8 @@ with open('index.html','w') as file:
 csrf = re.findall(r'{"config":{"csrf_token":"(.*)","viewer"',hal_depan.text)[0]
 print(csrf)
 
-username = 'testting50'
-password = 'bisangoding'
+username = 'user_instagram_anda'
+password = 'pass_instagram_anda'
 time = int(datetime.now().timestamp())
 
 payload = {
